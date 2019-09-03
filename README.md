@@ -1,1 +1,2 @@
-# simple-pagehttps://amandaking722.github.io/simple-page/
+# simple-page
+https://amandaking722.github.io/simple-page/
